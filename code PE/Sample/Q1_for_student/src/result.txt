@@ -1,0 +1,5 @@
+  f1 : 1.0 mark
+  f2 : 1.0 mark
+  f3 : 1.0 mark
+  f4 : 1.0 mark
+  Total marks: 4.0

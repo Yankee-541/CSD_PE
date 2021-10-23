@@ -1,0 +1,4 @@
+
+C D F 
+D, 12 F, 17 G, 17 
+A B C D F G 
